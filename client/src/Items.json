@@ -1,0 +1,101 @@
+[
+  {
+    "quantity": 0,
+    "itemName": "Maharaja MAC",
+    "cost": 180,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/chains/1/171/52f1cbd5ecf32d45075a1c7f35608489_o2_featured_v2.jpg?output-format=webp",
+    "rating": 5,
+    "category": "Burger",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Theobroma",
+    "cost": 150,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/chains/6/18384116/1d26c0560f51eaa6480ce54dcf96b1ed_o2_featured_v2.jpg?output-format=webp",
+    "rating": 4.3,
+    "category": "Ice-Cream",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "FryPan Pizza",
+    "cost": 210,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/chains/0/18350870/a5575a2cc4b72691b0d86f58b878f84b_o2_featured_v2.jpg?output-format=webp",
+    "rating": 4.2,
+    "category": "Pizza",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Paneer Tikka(4)",
+    "cost": 100,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/3/19667793/1d3fe6090338825ca1e3ed145302f122_o2_featured_v2.jpg?output-format=webp",
+    "rating": 4.5,
+    "category": "Deserts",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Chicken Burger",
+    "cost": 140,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/chains/8/310078/9f2f843523d0e8b9ecd9ee9ee32c1c46_o2_featured_v2.jpg",
+    "rating": 4.7,
+    "category": "Burger",
+    "type": "non-veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Chhole Bhatoore",
+    "cost": 80,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/6/1896/ede1a524f77ea28bb253f94cc831fda1_o2_featured_v2.jpg",
+    "rating": 4.3,
+    "category": "North Indian Thaali",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Chhapan Bhog",
+    "cost": 60,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/9/899/8eb9f40e1274e4e049dc6194b3139c13_o2_featured_v2.jpg",
+    "rating": 4.2,
+    "category": "North Indian Thaali",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Mughlai Chicken",
+    "cost": 160,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/3/9643/55fde68112b34457355d5d6d04c3d0b4_o2_featured_v2.jpg",
+    "rating": 4.5,
+    "category": "Non-veg Deserts",
+    "type": "non-veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Chicken Biryani",
+    "cost": 70,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/chains/3/307893/0aaffd81491a90fac5d74cfdf6d5362d_o2_featured_v2.jpg",
+    "rating": 4.1,
+    "category": "Biryani Special",
+    "type": "non-veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Panner Masala Dosa",
+    "cost": 100,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/3/18742153/b4f773422ecf7c432d6b5b467551a313_o2_featured_v2.jpg",
+    "rating": 4.8,
+    "category": "South Indian Thaali",
+    "type": "veg"
+  },
+  {
+    "quantity": 0,
+    "itemName": "Choco-Chip Cake",
+    "cost": 145,
+    "imgURL": "https://b.zmtcdn.com/data/pictures/1/19149311/28abcc6f8367a81eb97e3cf0cb4dbbbc_o2_featured_v2.jpg",
+    "rating": 4.9,
+    "category": "Cakes",
+    "type": "non-veg"
+  }
+]
